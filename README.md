@@ -1,2 +1,2 @@
-# High-Performance-Computations-with-Open-MPI-in-C
+# High-Performance-Computing-with-Open-MPI-in-C
 Multi-processing programming 
