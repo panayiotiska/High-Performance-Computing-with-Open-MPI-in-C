@@ -3,4 +3,4 @@ Multi-processing programming. Used sequential codes turning them into parallel u
 
 ## Explanation of Enumeration-Sort :
 
-![enum_mpi_reduce](https://raw.githubusercontent.com/panayiotiska/High-Performance-Computing-with-Open-MPI-in-C/master/enum_reduce.png =250x500))
+![enum_mpi_reduce](https://raw.githubusercontent.com/panayiotiska/High-Performance-Computing-with-Open-MPI-in-C/master/enum_reduce.png =250x500)
